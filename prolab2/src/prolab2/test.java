@@ -21,6 +21,7 @@ public class test {
         Futbolcu F6 = new Futbolcu("Robert Lewandowski", "FC Bayern München", 90, 90, 80);
         Futbolcu F7 = new Futbolcu("Kylian Mbappé", "Paris Saint-Germain", 80, 75, 90);
         Futbolcu F8 = new Futbolcu("Luis Suárez", "Atlético Madrid", 90, 85, 80);
+        
         Basketbolcu B1 = new Basketbolcu("Giannis Antetokounmpo", "Milwaukee Bucks", 95, 90, 95);
         Basketbolcu B2 = new Basketbolcu("Kawhi Leonard", "Los Angeles Clippers", 90, 80, 90);
         Basketbolcu B3 = new Basketbolcu("LeBron James", "Los Angeles Lakers", 100, 95, 95);

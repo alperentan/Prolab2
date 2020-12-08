@@ -1,4 +1,3 @@
-
 package prolab2;
 import java.util.ArrayList;
 

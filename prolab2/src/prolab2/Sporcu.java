@@ -1,14 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package prolab2;
-
-/**
- *
- * @author alperentan
- */
 public class Sporcu {//parent class
 
     String sporcuIsim = "";
@@ -22,6 +12,8 @@ public class Sporcu {//parent class
         this.sporcuIsim = sporcuIsim;
         this.sporcuTakim = sporcuTakim;
     }
+    
+    private boolean kartSecildimi;
 
     public String getSporcuIsim() {
         return sporcuIsim;

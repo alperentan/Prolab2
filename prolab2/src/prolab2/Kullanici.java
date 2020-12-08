@@ -1,4 +1,3 @@
-
 package prolab2;
 
 public class Kullanici extends Oyuncu{
